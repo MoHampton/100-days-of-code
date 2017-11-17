@@ -2,11 +2,12 @@
 
 ### Day 1: November 16, 2017
 
-**Today's Progress**: Started the first module to the SharePoint Fundamentals module.
+**Today's Progress**: Great start with the first module to the SharePoint Fundamentals.  Developed my first "Hello World" SharePoint Webpart with React.  I also revisited Free Code Camp and studied JavaScript under the Front End Development Certificate.
 
-**Thoughts:** Very basic for now...will report more later. 
+**Thoughts:** I'm excited to continue learning and applying my skills from React to SharePoint.  This will require more study on React and ES6. 
 
 **Link to training:** [SPFx Youtube Video](https://www.youtube.com/watch?v=N1Z5XDLZ0J8&feature=youtu.be)
+[Free Code Camp Tribute Page](https://codepen.io/MoHampton/details/GMVWLy)
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
