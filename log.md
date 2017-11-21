@@ -6,8 +6,17 @@
 
 **Thoughts:** I'm excited to continue learning and applying my skills from React to SharePoint.  This will require more study on React and ES6. 
 
-**Link to training:** [SPFx Youtube Video](https://www.youtube.com/watch?v=N1Z5XDLZ0J8&feature=youtu.be)
-[Free Code Camp Tribute Page](https://codepen.io/MoHampton/details/GMVWLy)
+**Link to training/work:** [SPFx Youtube Video](https://www.youtube.com/watch?v=N1Z5XDLZ0J8&feature=youtu.be)
+[Free Code Camp Tribute Page](https://codepen.io/MoHampton/full/GMVWLy)
+
+### Day 2: November 18, 2017
+
+**Today's Progress**: Completed more Free Code Camp JavaScript module...alomost done! Read more on SharePoint REST APIs.and studied JavaScript under the Front End Development Certificate.
+
+**Thoughts:** I'm excited to continue learning and applying my skills from React to SharePoint.  This will require more study on React and ES6. 
+
+**Link to training:** [Rest API Reference](https://msdn.microsoft.com/en-us/library/office/jj860569.aspx)
+
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
