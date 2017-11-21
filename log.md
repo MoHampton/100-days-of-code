@@ -11,12 +11,27 @@
 
 ### Day 2: November 18, 2017
 
-**Today's Progress**: Completed more Free Code Camp JavaScript module...alomost done! Read more on SharePoint REST APIs.and studied JavaScript under the Front End Development Certificate.
+**Today's Progress**: Completed more Free Code Camp JavaScript module...alomost done! Read more on SharePoint REST APIs.
 
-**Thoughts:** I'm excited to continue learning and applying my skills from React to SharePoint.  This will require more study on React and ES6. 
+**Thoughts:** This is quite a long module, estimated to take 10 hours to complete.  The SharePoint CRUD process will more than likely be used frequently in my new job.
 
 **Link to training:** [Rest API Reference](https://msdn.microsoft.com/en-us/library/office/jj860569.aspx)
 
+### Day 3: November 19, 2017
+
+**Today's Progress**: The Free Code Camp JavaScript module is dooooonnnneee!  Moving on to Object Orientend and Functional Programming next. Started reviewing SQL Database Fundamentals on the Microsoft Virtual Academy.
+
+**Thoughts:** Feeling pretty good about completing the JavaScript but I still have a lot to learn and topics to review as a refresher.
+
+**Link to training:** [MVA SQL Fundamentals](https://mva.microsoft.com/en-US/training-courses/sql-database-fundamentals-16944?l=w7qq6nAID_6805121157)
+
+### Day 4: November 20, 2017
+
+**Today's Progress**: Reviewed LeanKit Kanban tutorial and brushed up on SCRUM. Reviewed more of the SharePoint Framework and broke my "Hello World" web part for fun. 
+
+**Thoughts:** Started my new job as a SharePoint Developer today.  My PM asked about REST APIs and I'm so glad I was able to answer his question based on studying the day before. 
+
+**Link to training:** [LeanKit Tutorial](https://support.leankit.com/hc/en-us/articles/204413443-Lesson-1-How-LeanKit-Works-The-Concept)
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
